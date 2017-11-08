@@ -1,0 +1,5 @@
+;
+
+function reAlert() {
+    alert("hello!");
+};
