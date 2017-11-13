@@ -1,5 +1,0 @@
-;
-
-function aTemple() {
-    alert("a");
-};
